@@ -1,0 +1,17 @@
+Dependencies for Project 'engr300-oep', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\signal_processor.c)(0x64D364F9)(--gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections --c99-IC:\Users\chris\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="538" -DTM4C123GH6PM -Drvmdk -DPART_TM4C123GH6PM-o .\objects\signal_processor.o --omf_browse .\objects\signal_processor.crf --depend .\objects\signal_processor.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025F66E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x6025F66C)
+I (inc/hw_memmap.h)(0x638F6D0A)
+I (inc/hw_types.h)(0x638F6D0A)
+I (driverlib/debug.h)(0x638F6D09)
+I (driverlib/sysctl.h)(0x638F6D09)
+I (driverlib/adc.h)(0x638F6D09)
+I (driverlib/interrupt.h)(0x638F6D09)
+I (inc/tm4c123gh6pm.h)(0x638F6D0A)
+I (driverlib/gpio.h)(0x638F6D09)
+I (driverlib/timer.h)(0x638F6D09)
+I (driverlib/fpu.h)(0x638F6D09)
+F (.\startup_rvmdk.S)(0x64D2FD92)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\chris\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 538" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (.\driverlib.lib)(0x638F6D09)()

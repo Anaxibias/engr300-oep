@@ -1,0 +1,13 @@
+.\objects\signal_processor.o: signal_processor.c
+.\objects\signal_processor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\signal_processor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\signal_processor.o: inc/hw_memmap.h
+.\objects\signal_processor.o: inc/hw_types.h
+.\objects\signal_processor.o: driverlib/debug.h
+.\objects\signal_processor.o: driverlib/sysctl.h
+.\objects\signal_processor.o: driverlib/adc.h
+.\objects\signal_processor.o: driverlib/interrupt.h
+.\objects\signal_processor.o: inc/tm4c123gh6pm.h
+.\objects\signal_processor.o: driverlib/gpio.h
+.\objects\signal_processor.o: driverlib/timer.h
+.\objects\signal_processor.o: driverlib/fpu.h
